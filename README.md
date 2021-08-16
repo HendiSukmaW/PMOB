@@ -1,2 +1,0 @@
-# PMOB
-UAS PMOB
